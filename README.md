@@ -1,5 +1,5 @@
 <section align="center">
-    <img src="https://github.com/anduinnn/HiFiNi-Auto-CheckIn/assets/68073009/e50e9fa7-3ddd-4198-be59-fc231f9b8986" alt="稀土掘金" width="260" />
+    <img src="https://github.com/anduinnn/HiFiNi-Auto-CheckIn/assets/68073009/e50e9fa7-3ddd-4198-be59-fc231f9b8986" alt="hifini" width="260" />
 </section>
 
 <h1 align="center">HiFiNi - 音乐磁场签到助手</h1>
@@ -64,3 +64,7 @@
 
 ## 配置 Gotify 推送
 点击查看[如何配置 Gotify 推送？](READMES/GofityConfigInfo.md)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=anduinnn/HiFiNi-Auto-CheckIn&type=Date)](https://www.star-history.com/#anduinnn/HiFiNi-Auto-CheckIn&Date)
